@@ -1,0 +1,1 @@
+Initialization is needed to start committing a repository
