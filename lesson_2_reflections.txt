@@ -1,1 +1,11 @@
 Initialization is needed to start committing a repository
+
+Add each logical changes to staging area and then commit
+
+brances would help to experiment new functionality.
+
+Diagrams help in knowing how many branches are there and what each might have.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging saves time, but may not compile. Manual merge takes time, but can be sure of correctness.
