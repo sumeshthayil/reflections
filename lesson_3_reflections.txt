@@ -1,1 +1,11 @@
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
+we know of a change in remote, so would like to manually pull it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork: Will make a remote repository copy of another repository remotely. Can push and fetch updates from/to remote local machines
+
+Clone: Can move between reomte and local machines. No push/fetch after that.
+
+branch: Make a copy from the main branch in a repository in a machine.
