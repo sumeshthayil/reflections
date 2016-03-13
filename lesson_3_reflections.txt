@@ -9,3 +9,6 @@ Fork: Will make a remote repository copy of another repository remotely. Can pus
 Clone: Can move between reomte and local machines. No push/fetch after that.
 
 branch: Make a copy from the main branch in a repository in a machine.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+We can merge our changes easily and push it back to remote.
